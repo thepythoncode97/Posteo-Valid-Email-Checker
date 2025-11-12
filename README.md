@@ -1,6 +1,6 @@
 # Posteo Valid Email Checker
 
-![image](https://raw.githubusercontent.com/alexrony21/Posteo-Valid-Email-Checker/refs/heads/main/Posteo_DE_Valid_Email_Checker.png)
+![image](https://raw.githubusercontent.com/thepythoncode97/Posteo-Valid-Email-Checker/refs/heads/main/Posteo_DE_Valid_Email_Checker.png)
 
 ## Features
 
